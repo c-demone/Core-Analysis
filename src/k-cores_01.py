@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#Devlopped by Christopher Demone. February 2019.
+#Developped by Christopher Demone. February 2019.
 
 import os
 import sys
